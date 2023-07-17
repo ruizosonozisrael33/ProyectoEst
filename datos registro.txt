@@ -1,0 +1,31 @@
+Nombre completo
+----------------------------------------------------
+Numero de cuenta
+----------------------------------------------------
+Servicio dolicitado    (Dropdown-Dinamico)    
+*Equipo de computo, 
+*Impresiones
+*Escaneo
+----------------------------------------------------
+Licenciatura    
+*Psicologia 
+*Educacion 
+*Trabajo Social 
+*Cultura Fisica y Deporte
+***otros
+----------------------------------------------------
+Usuario 
+*Profesor 
+*Alumno 
+*Administrativo 
+*Externo
+-----------------------------------------------------
+***Sugerencias
+
+-----------------------------------------------------
+
+MySQL
+-Usuario
+-licenciatura
+-Servicio
+-Registro
